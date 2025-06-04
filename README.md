@@ -31,8 +31,8 @@
 - Redis (for caching, optional)  
 
 **AI Integration**  
-- ChatGPT Turbo 3.5 / GPT-4 (via OpenAI API)  
-- Future Scope: Whisper for voice, DALL·E for image-based answers  
+- AI APIs for Interview Feedback & Resume Review (e.g., Cohere, Gemini, Claude, or other LLM providers)  
+- Modular design allows easy integration with different AI providers  
 
 ---
 
