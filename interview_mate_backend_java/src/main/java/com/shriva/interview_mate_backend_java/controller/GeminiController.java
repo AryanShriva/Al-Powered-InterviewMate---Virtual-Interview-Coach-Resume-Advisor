@@ -1,4 +1,4 @@
-//package com.shriva.interview_mate_backend_java.controller;
+package com.shriva.interview_mate_backend_java.controller;
 //
 //import com.shriva.interview_mate_backend_java.service.GeminiService;
 //import org.springframework.beans.factory.annotation.Autowired;
@@ -18,3 +18,13 @@
 //        return geminiService.generateContent(prompt);
 //    }
 //}
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class GeminiController {
+
+    public GeminiController() {
+        System.out.println("GeminiController is not implemented yet.");
+    }
+}
